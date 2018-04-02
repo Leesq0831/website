@@ -26,4 +26,5 @@
 //= require ace-elements.min
 //= require ace.min
 //= require turbolinks
+//= require ./ueditor_config
 // require_tree .

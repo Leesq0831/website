@@ -39,6 +39,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'acts_as_enum', '~> 1.3.1'
 gem 'ransack'
+#gem 'meta_search'
 gem 'kaminari', '0.16.1'
 gem 'bcrypt',       '3.1.11'
 gem 'pry-rails'
